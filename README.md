@@ -1,2 +1,2 @@
-# www.nixon.com
+# www nixoncom
 .nixon awarded website from canda
